@@ -6,4 +6,4 @@ function errorHandler(error, request, response, next){
     })
 }
 
-module. exports = errorHandler;
+module.exports = errorHandler;
